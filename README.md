@@ -9,9 +9,7 @@
   
 <div>
   <p>Olá! 👋 Sou um iniciante em programação e estou começando minha jornada no mundo do desenvolvimento. Meu objetivo inicial é me tornar um desenvolvedor front-end, criando interfaces incríveis e funcionais. Fique à vontade para explorar meu perfil e acompanhar meu progresso!</p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adilson-krevoniz&show_icons=true&theme=light&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson-krevoniz&layout=compact&langs_count=8&theme=light" />
-</div>
+  
 
 lINGUAGENS PRETENDIDAS!!!
 
